@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "BinaryFramework",
-            url: "https://github.com/monish-instinct/BinaryFramework/releases/download/clswift/BinaryFramework.xcframework.zip",
-            checksum: "41ad1fad29c79ada120598ab945cffe9b07864c86d5869a337425b8b656bc231"
+            url: "https://github.com/monish-instinct/BinaryFramework/releases/download/swift/BinaryClFramework.xcframework.zip",
+            checksum: "b10d2dc767cc6e6820dbd3d37112085bf4db8476e79fcf2639af02996bde5595"
         )
     ]
 )
